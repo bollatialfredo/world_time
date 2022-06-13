@@ -32,6 +32,10 @@ dependencies:
   http: ^0.13.4
   intl: ^0.17.0
   loading_indicator: ^3.1.0
+  mobile_scanner: ^2.0.0
+  permission_handler: ^9.2.0
+  app_settings: 4.1.8
+  ndialog: ^4.1.1+1
 
 
   # The following adds the Cupertino Icons font to your application.

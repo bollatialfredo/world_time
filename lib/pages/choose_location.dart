@@ -35,7 +35,7 @@ class _ChooseLocationState extends State<ChooseLocation> {
   }
 
   void redirect() {
-    Navigator.pop(context, args );
+    Navigator.pop(context, args);
   }
 
   @override
